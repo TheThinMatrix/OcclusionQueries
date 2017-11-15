@@ -1,0 +1,6 @@
+hasExtraMap;FALSE
+hasTransparency;FALSE
+hasReflection;FLASE
+hasRefraction;FALSE
+castsShadow;TRUE
+important;FALSE
